@@ -26,13 +26,7 @@ A beautiful and interactive quiz application built with Flutter. Test your Flutt
 
 
 
-```
-<p align="center">
-  <img src="screenshots/start_screen.png" width="200" alt="Start Screen">
-  <img src="screenshots/questions_screen.png" width="200" alt="Questions Screen">
-  <img src="screenshots/results_screen.png" width="200" alt="Results Screen">
-</p>
-```
+
 
 ## 🚀 Getting Started
 
@@ -110,7 +104,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👤 Author
 
-**Borgi Moatez**
+**Borji Moatez**
 
 * Github: [@borgimoatez123](https://github.com/borgimoatez123)
 
