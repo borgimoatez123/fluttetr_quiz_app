@@ -15,15 +15,13 @@ A beautiful and interactive quiz application built with Flutter. Test your Flutt
 
 ## 📸 Screenshots
 
-[Add screenshots of your app here]
+https://i.ibb.co/fVxvFzdP/Screenshot-1752661142.png
+https://i.ibb.co/HfJPXJGP/Screenshot-1752661382.png
+https://i.ibb.co/9HJ4WjLM/Screenshot-1752661388.png
+https://i.ibb.co/5gJQ60pk/Screenshot-1752661396.png
+https://i.ibb.co/fGCCS3CD/Screenshot-1752661407.png
 
-To add screenshots:
-1. Create a `screenshots` folder in your project
-2. Take screenshots of your app:
-   - Start screen
-   - Questions screen
-   - Results screen
-3. Add them to your README using:
+
 
 ```
 <p align="center">
