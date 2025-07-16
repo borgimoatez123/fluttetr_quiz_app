@@ -1,16 +1,118 @@
-# quiz_app
+# Flutter Quiz App 📱
 
-A new Flutter project.
+A beautiful and interactive quiz application built with Flutter. Test your Flutter knowledge with this engaging quiz app featuring a clean UI and smooth transitions.
 
-## Getting Started
+## 🌟 Features
 
-This project is a starting point for a Flutter application.
+- Interactive quiz questions about Flutter
+- Beautiful gradient backgrounds
+- Animated transitions
+- Score tracking
+- Results summary
+- Restart functionality
+- Google Fonts integration
+- Responsive design
 
-A few resources to get you started if this is your first Flutter project:
+## 📸 Screenshots
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+[Add screenshots of your app here]
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+To add screenshots:
+1. Create a `screenshots` folder in your project
+2. Take screenshots of your app:
+   - Start screen
+   - Questions screen
+   - Results screen
+3. Add them to your README using:
+
+```
+<p align="center">
+  <img src="screenshots/start_screen.png" width="200" alt="Start Screen">
+  <img src="screenshots/questions_screen.png" width="200" alt="Questions Screen">
+  <img src="screenshots/results_screen.png" width="200" alt="Results Screen">
+</p>
+```
+
+## 🚀 Getting Started
+
+### Prerequisites
+
+- Flutter SDK (3.8.1 or higher)
+- Dart SDK
+- Android Studio / VS Code
+- Android Emulator / iOS Simulator
+
+### Installation
+
+1. Clone the repository
+```bash
+git clone https://github.com/borgimoatez123/fluttetr_quiz_app.git
+```
+
+2. Navigate to project directory
+```bash
+cd fluttetr_quiz_app
+```
+
+3. Install dependencies
+```bash
+flutter pub get
+```
+
+4. Run the app
+```bash
+flutter run
+```
+
+## 📱 App Structure
+
+```
+lib/
+├── data/
+│   └── questions.dart
+├── model/
+│   └── QuizQuestion.dart
+├── screens/
+│   ├── StartScreen.dart
+│   ├── QuestionsScreen.dart
+│   └── ResultsScreen.dart
+├── widgets/
+│   ├── AnswerButton.dart
+│   └── QuestionsSummary.dart
+├── quiz.dart
+└── main.dart
+```
+
+## 🛠️ Built With
+
+- [Flutter](https://flutter.dev/) - UI Framework
+- [Google Fonts](https://pub.dev/packages/google_fonts) - Text Styling
+
+## ✨ Code Features
+
+- Stateful & Stateless Widgets
+- Custom Widgets
+- Data Models
+- List Management
+- State Management
+- Custom Styling
+- Gradient Backgrounds
+- Interactive UI Elements
+
+## 🤝 Contributing
+
+Contributions are welcome! Feel free to submit a Pull Request.
+
+## 📄 License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## 👤 Author
+
+**Borgi Moatez**
+
+* Github: [@borgimoatez123](https://github.com/borgimoatez123)
+
+## ⭐️ Show your support
+
+Give a ⭐️ if this project
