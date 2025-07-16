@@ -14,16 +14,15 @@ A beautiful and interactive quiz application built with Flutter. Test your Flutt
 - Responsive design
 
 ## 📸 Screenshots
-# 📸 Screenshots
+
 
 | Start Screen | Questions Screen | Results Screen |
 |-------------|------------------|----------------|
-| ![Start Screen](https://i.ibb.co/Cs34VyWN/Capture.png) | ![Questions Screen](https://i.ibb.co/fd2LLrj3/Capture.png) | ![Results Screen](https://i.ibb.co/G4TGbRRb/f.png) |
-https://i.ibb.co/fVxvFzdP/Screenshot-1752661142.png
-https://i.ibb.co/HfJPXJGP/Screenshot-1752661382.png
-https://i.ibb.co/9HJ4WjLM/Screenshot-1752661388.png
-https://i.ibb.co/5gJQ60pk/Screenshot-1752661396.png
-https://i.ibb.co/fGCCS3CD/Screenshot-1752661407.png
+| ![Start Screen](https://i.ibb.co/fVxvFzdP/Screenshot-1752661142.png) | ![Questions Screen](https://i.ibb.co/HfJPXJGP/Screenshot-1752661382.png) | ![Results Screen](https://i.ibb.co/5gJQ60pk/Screenshot-1752661396.png) |
+
+
+
+
 
 
 
